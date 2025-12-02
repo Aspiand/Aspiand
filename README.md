@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Muhammad Aspian</h1>
 <p>A passionate student from Indonesia</p>
-<p>Currently a Software Engineering student at <strong>SMKN 4 Banjarmasin</strong> and doing an internship at <strong>@openjournalteam</strong>.</p>
+<p>Currently a Software Engineering student at <strong>SMKN 4 Banjarmasin</strong> and working as a freelance developer at <strong>@openjournalteam</strong>.</p>
 <p>I'm interested in <strong>Open Source</strong>, <strong>Linux</strong>, and <strong>Backend Development</strong>.</p>
 
 ## 💻 Tech Stack
