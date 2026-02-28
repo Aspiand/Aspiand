@@ -21,18 +21,19 @@ You can make it good later
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 164 hrs 11 mins
+From: 29 December 2025 - To: 28 February 2026
 
-PHP              93 hrs 51 mins        █████████████▓░░░░░░░░░░░   54.39 %
-Python           26 hrs 16 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
-Other            8 hrs 23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Blade Template   8 hrs 17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Markdown         8 hrs 13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Go               7 hrs 44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-YAML             7 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Nix              4 hrs 12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Bash             2 hrs 24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Docker           2 hrs 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Total Time: 168 hrs 21 mins
+
+PHP              95 hrs 49 mins        █████████████▓░░░░░░░░░░░   54.15 %
+Python           27 hrs 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+Other            8 hrs 35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Markdown         8 hrs 25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Blade Template   8 hrs 19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Go               7 hrs 44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Nix              4 hrs 12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Bash             2 hrs 24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Docker           2 hrs 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
