@@ -1,12 +1,6 @@
 <h1>Hi 👋, I'm Muhammad Aspian</h1>
 <p>I'm interested in <strong>Open Source</strong>, <strong>Linux</strong>, and <strong>Backend Development</strong>.</p>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Aspiand&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aspiand&theme=dark&hide_border=false)<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!--
 Just make it exists first
 
