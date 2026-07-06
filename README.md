@@ -10,7 +10,7 @@ You can make it good later
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 03 July 2026
+From: 29 December 2025 - To: 04 July 2026
 
 Total Time: 354 hrs 12 mins
 
