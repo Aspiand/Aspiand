@@ -10,17 +10,18 @@ You can make it good later
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 07 September 2026
+From: 29 December 2025 - To: 08 September 2026
 
-Total Time: 443 hrs 48 mins
+Total Time: 446 hrs 33 mins
 
-Nix                  144 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.58 %
-PHP                  128 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 %
-Markdown             45 hrs 5 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-Python               30 hrs 35 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Go                   12 hrs 50 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Blade Template       11 hrs 19 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-C                    8 hrs 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Nix                  144 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.51 %
+PHP                  128 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.01 %
+Markdown             45 hrs 29 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Python               30 hrs 35 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Go                   12 hrs 50 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Blade Template       11 hrs 19 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+C                    9 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JavaScript           4 hrs 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
